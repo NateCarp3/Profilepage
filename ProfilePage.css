@@ -1,0 +1,50 @@
+.top
+{
+    display: flex;
+
+}
+.bottom
+{
+    display: flex;
+}
+.card
+{
+    background-color: blanchedalmond;
+    border: 4px solid grey;
+    margin-left: 50px;
+    margin-right: 1250px;
+    margin-top: 25px;
+    margin-bottom: 200px;
+    padding: 30px;
+
+}
+.banner
+{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.home
+{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.prof
+{
+    padding-left: 400px;
+}
+.find
+{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.sign
+{
+    background-color: aquamarine;
+}
+.edu
+{
+    border: 4px solid dark black;
+    background-color: blue;
+    margin-right: 1250px;
+}
